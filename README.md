@@ -4,11 +4,11 @@
 
 ## Category
 + [Javacsript](#javacript)
-  - [Angular](#angular)
-  - [React](#react)
-  - [Vue](#vue)
-  - [ExtJS](#extjs)
-  - [Nodejs](nodejs)
+  1. [Angular](#angular)
+  2. [React](#react)
+  3. [Vue](#vue)
+  4. [ExtJS](#extjs)
+  5. [Nodejs](#nodejs)
 + [CSS](#css)
 + [Java](#java)
 + [PHP](#php)
