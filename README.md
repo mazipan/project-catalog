@@ -29,6 +29,13 @@
 ### Vue
 - [Vue2-Simplert](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired)
 - [Vue2-Simplert-Plugin](https://github.com/mazipan/vue2-simplert-plugin) - Vue2-Simplert as Vue.js Plugins
+- [vue-currency-filter](https://github.com/mazipan/vue-currency-filter) - Lightweight and Customizeable Vue 2 Currency Filter
+- [vue-select-image](https://github.com/mazipan/vue-select-image) - Vue 2 Component for selecting image from list
+- [vue-complexify](https://github.com/mazipan/vue-complexify) - Vuejs porting library from jquery.complexify.js
+- [chucknorris](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes built with VueJS + api.chucknorris.io
+- [explore-github](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
+- [FireJak](https://github.com/mazipan/FireJak) - Aplikasi Daftar Pos Pemadam Kebakaran di Jakarta
+- [RumahSakitJakarta](https://github.com/mazipan/RumahSakitJakarta) - Daftar Rumah Sakit Umum, Khusus dan Puskesmas di Jakarta
 
 [back to top](#category)
 
