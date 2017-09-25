@@ -3,16 +3,16 @@
 
 
 ## Category
-+ [Javacsript](#javacript)
-  1. [Angular](#angular)
-  2. [React](#react)
-  3. [Vue](#vue)
-  4. [ExtJS](#extjs)
-  5. [Nodejs](#nodejs)
-+ [CSS](#css)
-+ [Java](#java)
-+ [PHP](#php)
-+ [Miscellaneous](#miscellaneous)
+  1. [Javacsript](#javacsript)
+    - [Angular](#angular)
+    - [React](#react)
+    - [Vue](#vue)    
+    - [ExtJS](#extjs)
+    - [Nodejs](#nodejs)
+  2. [CSS](#css)  
+  3. [Java](#java)
+  4. [PHP](#php) 
+  5. [Miscellaneous](#miscellaneous)
 
 ## Javascript
 
