@@ -19,6 +19,7 @@
 ### Angular
 - [ng2-simplert](https://github.com/mazipan/ng2-simplert) - Angular 2 Simple Alert Component (SweetAlert Inspired)
 - [ng2-starwars](https://github.com/mazipan/ng2-starwars) - Star Wars API Implementation in Angular2
+- [angularjs-basic-tutorial](https://github.com/mazipan/angularjs-basic-tutorial) - Angularjs v.1.x Basic Tutorial
 
 [back to top](#category)
 
