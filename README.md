@@ -48,31 +48,39 @@
 [back to top](#category)
 
 ### Nodejs
-- 
+- [nodejs-simple-contact-webapp](https://github.com/mazipan/nodejs-simple-contact-webapp) - Contact WebApp with ExpressJS - CRUD and Docs
+- [SampleSPA-SwapiApi](https://github.com/mazipan/SampleSPA-SwapiApi) - Sample for creating SPA Page Using Swapi API
+- [sample-swagger-for-nodejs](https://github.com/mazipan/sample-swagger-for-nodejs) - Sample of using swagger.io with Nodejs
+- [nodejs-simple-restfull-with-express](https://github.com/mazipan/nodejs-simple-restfull-with-express) - ExpressJS Rest API Sample
+- [nodejs-simple-restfull-test-with-mocha](https://github.com/mazipan/nodejs-simple-restfull-test-with-mocha) - Sample of Restful API Unit Test using Mocha
 
 
 [back to top](#category)
 
 ## CSS
-- 
+- [bem-kit](https://github.com/mazipan/bem-kit) - CSS UI Kit with BEM + SASS
+- [bulma-admin-dashboard-template](https://github.com/mazipan/bulma-admin-dashboard-template) - Free Admin Dashboard Template Build with Bulma.io
+- [lightweight-admin-template](https://github.com/mazipan/lightweight-admin-template) - Lightweight admin template for your web application
 
 
 [back to top](#category)
 
 ## Java
-- 
+- [JavaSwing-SimpleApplicationDesktopTemplate](https://github.com/mazipan/JavaSwing-SimpleApplicationDesktopTemplate) - Basic Template for Desktop Application Window with Java Swing
+- [Java-SwingCustomComponent](https://github.com/mazipan/Java-SwingCustomComponent) - Advance Custom Component for Java Swing
+- [Java-PerpustakaanOnline](https://github.com/mazipan/Java-PerpustakaanOnline) - Sample of JavaEE using servlet
 
 
 [back to top](#category)
 
 ## PHP
-- 
+- [learn-php-oop-like-java](https://github.com/mazipan/learn-php-oop-like-java) - Sample of Object Oriented Programming in PHP Language that influenced from Java
 
 
 [back to top](#category)
 
 ## Miscellaneous
-- 
+- [bliblidotcom-chrome-extensions-unofficial](https://github.com/mazipan/bliblidotcom-chrome-extensions-unofficial) - Blibli.com Chrome Extensions
 
 
 [back to top](#category)
