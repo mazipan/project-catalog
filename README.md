@@ -17,12 +17,12 @@
 ## Javascript
 
 ### Angular
-- 
+- [ng2-simplert](https://github.com/mazipan/ng2-simplert) - Angular 2 Simple Alert Component (SweetAlert Inspired)
 
 [back to top](#category)
 
 ### React
-- 
+- [react-simplert](https://github.com/mazipan/react-simplert) - ReactJS Simple Alert Component (SweetAlert Inspired)
 
 [back to top](#category)
 
@@ -40,7 +40,8 @@
 [back to top](#category)
 
 ### ExtJS
-- 
+- [ExtJS-NetworkDashboard](https://github.com/mazipan/ExtJS-NetworkDashboard) - ExtJS Professional Dashboard
+- [ExtJS-TNMD](https://github.com/mazipan/ExtJS-TNMD) - TNMD - Through Network Monitoring Dashboard
 
 [back to top](#category)
 
