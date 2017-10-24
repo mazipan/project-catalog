@@ -33,7 +33,9 @@
 - [Vue2 Simplert Plugin](https://github.com/mazipan/vue2-simplert-plugin) - Vue2-Simplert as Vue.js Plugins
 - [Vue Currency Filter](https://github.com/mazipan/vue-currency-filter) - Lightweight and Customizeable Vue 2 Currency Filter
 - [Vue Select Image](https://github.com/mazipan/vue-select-image) - Vue 2 Component for selecting image from list
-- [vue Complexify](https://github.com/mazipan/vue-complexify) - Vuejs porting library from jquery.complexify.js
+- [Vue Complexify](https://github.com/mazipan/vue-complexify) - Vuejs porting library from jquery.complexify.js
+- [Vue Ionicons](https://github.com/mazipan/vue-ionicons) - Vue Icon Set Components from Ionic Team
+- [Awesome Vue List](https://github.com/mazipan/awesome-vue-list) - A curated list of awesome things related to Vue.js base on awesome-vue repository
 - [Chuck Norris](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes built with VueJS + api.chucknorris.io
 - [Github Explorer](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
 - [Fire Jak](https://github.com/mazipan/FireJak) - Aplikasi Daftar Pos Pemadam Kebakaran di Jakarta
@@ -60,6 +62,7 @@
 ## CSS
 - [Bem Kit](https://github.com/mazipan/bem-kit) - CSS UI Kit with BEM + SASS
 - [Bulma Admin Dashboard Template](https://github.com/mazipan/bulma-admin-dashboard-template) - Free Admin Dashboard Template Build with Bulma.io
+- [Milligram Admin Dashboard Template](https://github.com/mazipan/milligram-admin-dashboard-template) - Admin dashboard template built with super minimalis CSS framework milligram.io 
 - [Lightweight Admin Template](https://github.com/mazipan/lightweight-admin-template) - Lightweight admin template for your web application
 
 
@@ -81,6 +84,7 @@
 
 ## Miscellaneous
 - [Blibli.com Chrome Extensions - Unofficial](https://github.com/mazipan/bliblidotcom-chrome-extensions-unofficial) - Blibli.com Chrome Extensions
+- [Om Telolet Om](https://github.com/mazipan/om-telolet-om) - Play Om Telolet Om Audio From Your Web Browser
 
 
 [:arrow_up: back to top](#category)
