@@ -97,6 +97,12 @@ export default {
             lang: 'vue'
         },
         {
+            name: 'Vue String Filter',
+            url: 'https://github.com/mazipan/vue-string-filter',
+            desc: 'Lightweight Vue 2 String Manipulation Filter',
+            lang: 'vue'
+        },
+        {
             name: 'Network Dashboard',
             url: 'https://github.com/mazipan/ExtJS-NetworkDashboard',
             desc: 'ExtJS Professional Dashboard',
