@@ -41,6 +41,7 @@
 - [Fire Jak](https://github.com/mazipan/FireJak) - Aplikasi Daftar Pos Pemadam Kebakaran di Jakarta
 - [Rumah Sakit Jakarta](https://github.com/mazipan/RumahSakitJakarta) - Daftar Rumah Sakit Umum, Khusus dan Puskesmas di Jakarta
 - [Nuxt Blog](https://github.com/mazipan/nuxt-blog) - Personal blog built with Nuxt.js and wordpress rest api
+- [Vue String Filter](https://github.com/mazipan/vue-string-filter) - Lightweight Vue 2 String Manipulation Filter
 
 [:arrow_up: back to top](#category)
 
