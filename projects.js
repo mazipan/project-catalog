@@ -169,6 +169,12 @@ export default {
             lang: 'css'
         },
         {
+            name: 'PaperCSS Admin Dashboard Template',
+            url: 'https://github.com/mazipan/papercss-admin-dashboard-template',
+            desc: 'Free admin dashboard template built with PaperCSS',
+            lang: 'css'
+        },
+        {
             name: 'Application Desktop Template',
             url: 'https://github.com/mazipan/JavaSwing-SimpleApplicationDesktopTemplate',
             desc: 'Basic Template for Desktop Application Window with Java Swing',
@@ -202,6 +208,12 @@ export default {
             name: 'Om Telolet Om',
             url: 'https://github.com/mazipan/om-telolet-om',
             desc: 'Play Om Telolet Om Audio From Your Web Browser',
+            lang: 'miscellaneous'
+        },
+        {
+            name: 'Mvn Packager',
+            url: 'https://github.com/mazipan/mvn-packager',
+            desc: 'Packaging frontend project like Maven',
             lang: 'miscellaneous'
         }
     ]
