@@ -66,7 +66,7 @@
 - [Bulma Admin Dashboard Template](https://github.com/mazipan/bulma-admin-dashboard-template) - Free Admin Dashboard Template Build with Bulma.io
 - [Milligram Admin Dashboard Template](https://github.com/mazipan/milligram-admin-dashboard-template) - Admin dashboard template built with super minimalis CSS framework milligram.io 
 - [Lightweight Admin Template](https://github.com/mazipan/lightweight-admin-template) - Lightweight admin template for your web application
-- [PaperCSS Admin Dashboard Template](https://github.com/mazipan/papercss-admin-dashboard-template)
+- [PaperCSS Admin Dashboard Template](https://github.com/mazipan/papercss-admin-dashboard-template) - Free admin dashboard template built with PaperCSS
 
 
 [:arrow_up: back to top](#category)
@@ -88,7 +88,7 @@
 ## Miscellaneous
 - [Blibli.com Chrome Extensions - Unofficial](https://github.com/mazipan/bliblidotcom-chrome-extensions-unofficial) - Blibli.com Chrome Extensions
 - [Om Telolet Om](https://github.com/mazipan/om-telolet-om) - Play Om Telolet Om Audio From Your Web Browser
-- [Mvn Packager](https://github.com/mazipan/mvn-packager)
+- [Mvn Packager](https://github.com/mazipan/mvn-packager) - Packaging frontend project like Maven
 
 
 [:arrow_up: back to top](#category)
