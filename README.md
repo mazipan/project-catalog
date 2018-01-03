@@ -25,6 +25,7 @@
 
 ### React
 - [React Simplert](https://github.com/mazipan/react-simplert) - ReactJS Simple Alert Component (SweetAlert Inspired)
+- [Ghibli Fans](https://github.com/mazipan/ghibli-fans) - Enter The Ghibli's World
 
 [:arrow_up: back to top](#category)
 

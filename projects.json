@@ -23,6 +23,12 @@
         "lang": "react"
     },
     {
+        "name": "Ghibli Fans",
+        "url": "https://github.com/mazipan/ghibli-fans",
+        "desc": "Enter The Ghibli's World",
+        "lang": "react"
+    },
+    {
         "name": "Vue2 Simplert",
         "url": "https://github.com/mazipan/vue2-simplert",
         "desc": "Vue 2 Simple Alert Component (SweetAlert Inspired)",
