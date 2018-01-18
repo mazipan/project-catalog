@@ -1,18 +1,21 @@
-# project-catalog
-:link: Irfan Maulana Projects Catalog
+# :link: Irfan Maulana's Project Catalog
+
+List of all Irfan Maulana's open source project and library
 
 
 ## Category
-  1. [Javacsript](#javacsript)
+
+- [Javacsript](#javascript)
     - [Angular](#angular)
     - [React](#react)
-    - [Vue](#vue)    
+    - [Vue](#vue)
     - [ExtJS](#extjs)
     - [Nodejs](#nodejs)
-  2. [CSS](#css)  
-  3. [Java](#java)
-  4. [PHP](#php) 
-  5. [Miscellaneous](#miscellaneous)
+- [CSS](#css)
+- [Java](#java)
+- [PHP](#php)
+- [Miscellaneous](#miscellaneous)
+
 
 ## Javascript
 
