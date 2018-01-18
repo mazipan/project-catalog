@@ -50,6 +50,8 @@ List of all Irfan Maulana's open source project and library
 - [Nuxt Blog](https://github.com/mazipan/nuxt-blog) - Personal blog built with Nuxt.js and wordpress rest api
 - [Vue String Filter](https://github.com/mazipan/vue-string-filter) - Lightweight Vue 2 String Manipulation Filter
 - [Vue Google Adsense](https://github.com/mazipan/vue-google-adsense) - Vue.js Google Adsense Component with InFeed and InArticle Ads support
+- [Vue.js Template Plugin](https://github.com/mazipan/vuejs-template-plugin) - Vue.js plugin development template for Vue-CLI based on the webpack-simple template
+- [Vue Webpack Sample](https://github.com/mazipan/vue-webpack-sample) - Sample initialize Vue.js project using Vue-CLI webpack template
 
 [:arrow_up: back to top](#category)
 
