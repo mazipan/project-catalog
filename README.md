@@ -52,6 +52,7 @@ List of all Irfan Maulana's open source project and library
 - [Vue Google Adsense](https://github.com/mazipan/vue-google-adsense) - Vue.js Google Adsense Component with InFeed and InArticle Ads support
 - [Vue.js Template Plugin](https://github.com/mazipan/vuejs-template-plugin) - Vue.js plugin development template for Vue-CLI based on the webpack-simple template
 - [Vue Webpack Sample](https://github.com/mazipan/vue-webpack-sample) - Sample initialize Vue.js project using Vue-CLI webpack template
+- [Vue OffCanvas Menu](https://github.com/mazipan/vue-offcanvas-menu) - Showing off-canvas menu effects stylishly with Vue.js
 
 [:arrow_up: back to top](#category)
 
@@ -80,6 +81,7 @@ List of all Irfan Maulana's open source project and library
 - [Milligram Admin Dashboard Template](https://github.com/mazipan/milligram-admin-dashboard-template) - Admin dashboard template built with super minimalis CSS framework milligram.io 
 - [Lightweight Admin Template](https://github.com/mazipan/lightweight-admin-template) - Lightweight admin template for your web application
 - [PaperCSS Admin Dashboard Template](https://github.com/mazipan/papercss-admin-dashboard-template) - Free admin dashboard template built with PaperCSS
+- [Bootstrap 4 admin dashboard template](https://github.com/mazipan/bootstrap4-admin-dashboard-template) - Bootstrap 4 admin dashboard template
 - [PHPID-UXD Landing Page](https://github.com/mazipan/phpid-uxd-landingpage-prototype) - PHP Indonesia UXD Landing Page Prototype
 
 
