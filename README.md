@@ -1,4 +1,4 @@
-# :link: Irfan Maulana's Project Catalog
+# :gift: Irfan Maulana's Project Catalog
 
 List of all Irfan Maulana's open source project and library
 
