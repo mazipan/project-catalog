@@ -83,6 +83,7 @@ List of all Irfan Maulana's open source project and library
 - [PaperCSS Admin Dashboard Template](https://github.com/mazipan/papercss-admin-dashboard-template) - Free admin dashboard template built with PaperCSS
 - [Bootstrap 4 admin dashboard template](https://github.com/mazipan/bootstrap4-admin-dashboard-template) - Bootstrap 4 admin dashboard template
 - [PHPID-UXD Landing Page](https://github.com/mazipan/phpid-uxd-landingpage-prototype) - PHP Indonesia UXD Landing Page Prototype
+- [Normalize.preprocessor](https://github.com/mazipan/normalize.preprocessor) - Preprocessor (Less, Stylus, Sass, Scss) version of normalize.css: A collection of HTML element and attribute style-normalizations.
 
 
 [:arrow_up: back to top](#category)
