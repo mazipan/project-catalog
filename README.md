@@ -24,6 +24,7 @@ List of all Irfan Maulana's open source project and library
 - [Ng2 Simplert](https://github.com/mazipan/ng2-simplert) - Angular 2 Simple Alert Component (SweetAlert Inspired)
 - [Ng2 Starwars](https://github.com/mazipan/ng2-starwars) - Star Wars API Implementation in Angular2
 - [Angularjs Basic Tutorial](https://github.com/mazipan/angularjs-basic-tutorial) - Angularjs v.1.x Basic Tutorial
+- [Angular-WWWID](https://github.com/mazipan/angular-wwwid) - Angular PWA WWWID RSS Reader
 
 [:arrow_up: back to top](#category)
 
@@ -53,6 +54,7 @@ List of all Irfan Maulana's open source project and library
 - [Vue.js Template Plugin](https://github.com/mazipan/vuejs-template-plugin) - Vue.js plugin development template for Vue-CLI based on the webpack-simple template
 - [Vue Webpack Sample](https://github.com/mazipan/vue-webpack-sample) - Sample initialize Vue.js project using Vue-CLI webpack template
 - [Vue OffCanvas Menu](https://github.com/mazipan/vue-offcanvas-menu) - Showing off-canvas menu effects stylishly with Vue.js
+- [Vue-WWWID](https://github.com/mazipan/vue-wwwid) - PWA with Vue + Workbox for WWWID RSS Feed
 
 [:arrow_up: back to top](#category)
 
