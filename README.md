@@ -11,6 +11,7 @@ List of all Irfan Maulana's open source project and library
     - [Vue](#vue)
     - [ExtJS](#extjs)
     - [Nodejs](#nodejs)
+    - [Other JS](#other-js)
 - [CSS](#css)
 - [Java](#java)
 - [PHP](#php)
@@ -73,6 +74,13 @@ List of all Irfan Maulana's open source project and library
 - [Sample Swagger for Nodejs](https://github.com/mazipan/sample-swagger-for-nodejs) - Sample of using swagger.io with Nodejs
 - [Simple Restful with Express](https://github.com/mazipan/nodejs-simple-restfull-with-express) - ExpressJS Rest API Sample
 - [Simple Restful Unit Test with Mocha](https://github.com/mazipan/nodejs-simple-restfull-test-with-mocha) - Sample of Restful API Unit Test using Mocha
+
+
+[:arrow_up: back to top](#category)
+
+### Other JS
+
+- [Akamai Image Converter](https://github.com/mazipan/akamai-image-converter) - Simple javascript util for Akamai image converter
 
 
 [:arrow_up: back to top](#category)
