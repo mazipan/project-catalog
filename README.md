@@ -57,6 +57,7 @@ List of all Irfan Maulana's open source project and library
 - [Vue OffCanvas Menu](https://github.com/mazipan/vue-offcanvas-menu) - Showing off-canvas menu effects stylishly with Vue.js
 - [Vue WWWID](https://github.com/mazipan/vue-wwwid) - PWA with Vue + Workbox for WWWID RSS Feed
 - [Vue Tiny Lazyload Img](https://github.com/mazipan/vue-tiny-lazyload-img) - A small size Vue.js v.2+ directive for lazy loading images
+- [Qur'an Offline](https://github.com/mazipan/quran-offline) - Read Qur'an Anywhere, Directly from Your Browser, No Need Installing Apps Anymore.
 
 [:arrow_up: back to top](#category)
 
