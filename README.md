@@ -51,7 +51,7 @@ List of all Irfan Maulana's open source project and library
 - [Rumah Sakit Jakarta](https://github.com/mazipan/RumahSakitJakarta) - Daftar Rumah Sakit Umum, Khusus dan Puskesmas di Jakarta
 - [Nuxt Blog](https://github.com/mazipan/nuxt-blog) - Personal blog built with Nuxt.js and wordpress rest api
 - [Vue String Filter](https://github.com/mazipan/vue-string-filter) - Lightweight Vue 2 String Manipulation Filter
-- [Vue Google Adsense](https://github.com/mazipan/vue-google-adsense) ![GH Star](https://img.shields.io/github/stars/mazipan/vue-google-adsense.svg?style=social) - Vue.js Google Adsense Component with InFeed and InArticle Ads support
+- [Vue Google Adsense](https://github.com/mazipan/vue-google-adsense) ![GH Star](https://img.shields.io/github/stars/mazipan/vue-google-adsense.svg) - Vue.js Google Adsense Component with InFeed and InArticle Ads support
 - [Vue.js Template Plugin](https://github.com/mazipan/vuejs-template-plugin) - Vue.js plugin development template for Vue-CLI based on the webpack-simple template
 - [Vue Webpack Sample](https://github.com/mazipan/vue-webpack-sample) - Sample initialize Vue.js project using Vue-CLI webpack template
 - [Vue OffCanvas Menu](https://github.com/mazipan/vue-offcanvas-menu) - Showing off-canvas menu effects stylishly with Vue.js
